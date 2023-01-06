@@ -21,4 +21,4 @@ MySQL 	![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badg
 
 ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 
-![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
+[![Tableau](https://img.shields.io/badge/-Lisbeth-blue?style=flat-square&logo=Tableau&logoColor=white&link=https://public.tableau.com/app/profile/lisbeth5748)] 
