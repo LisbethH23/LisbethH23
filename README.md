@@ -6,19 +6,12 @@ Please contact me in the following links:
 [![Gmail Badge](https://img.shields.io/badge/-lisitahg@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:lisitahg@gmail.com)](mailto:lisitahg@gmail.com)
 [![Linkedin Badge](https://img.shields.io/badge/-Lisbeth-blue?style=flat-square&logo=Linkedin&logoColor=white&link=http://www.linkedin.com/in/lisbeth-herrera-34249a69/)](https://www.linkedin.com/in/lisbeth-herrera-34249a69/)
 
-## ⚡ Technologies
+## Technologies
 MySQL 	![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-
 ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
-
 ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
-
 ![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
-
 ![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-
 ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-
-[![Tableau](https://img.shields.io/badge/-Lisbeth-blue?style=flat-square&logo=Tableau&logoColor=white&link=https://public.tableau.com/app/profile/lisbeth5748)] 
+![Tableau](https://img.shields.io/badge/-Lisbeth-blue?style=flat-square&logo=Tableau&logoColor=white&link=https://public.tableau.com/app/profile/lisbeth5748)
